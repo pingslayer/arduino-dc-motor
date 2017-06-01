@@ -10,7 +10,7 @@
 
 ### Picture of a working model
 
-![alt text](https://github.com/pingslayer/arduino-dc-motor/blob/master/single-motor-L298-module-arduino.jpg)
+![ScreenShot](single-motor-L298-module-arduino.jpg)
 
 ### Sources
 
