@@ -8,3 +8,4 @@ http://www.instructables.com/id/Control-DC-and-stepper-motors-with-L298N-Dual-Mo
 https://www.hackerstore.nl/PDFs/Tutorial298.pdf  
 http://forefront.io/a/beginners-guide-to-arduino/  
 http://aiaaocrocketry.org/AIAAOCRocketryDocs/SPARC2014/Arduino%20Uno%20Overview.pdf  
+https://www.arduino.cc/en/tutorial/memory  
