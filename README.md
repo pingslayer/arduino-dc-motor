@@ -1,6 +1,10 @@
 # arduino-dc-motor
 Control a DC Motor with an Arduino
 
+Circuit Diagram:
+
+![alt text](https://github.com/pingslayer/arduino-dc-motor/blob/branch-1/single-motor-L298-module-arduino.jpg)
+
 Sources:
 
 https://www.allaboutcircuits.com/projects/control-a-motor-with-an-arduino/  
