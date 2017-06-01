@@ -8,11 +8,11 @@
 - jumper wires (a bunch of them)
 - Power source (eveready battery LOL)
 
-### Picture of a working model:
+### Picture of a working model
 
 ![alt text](https://github.com/pingslayer/arduino-dc-motor/blob/branch-1/single-motor-L298-module-arduino.jpg)
 
-Sources:
+### Sources
 
 https://www.allaboutcircuits.com/projects/control-a-motor-with-an-arduino/  
 http://www.instructables.com/id/Control-DC-and-stepper-motors-with-L298N-Dual-Moto/  
