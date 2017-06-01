@@ -1,7 +1,14 @@
 # arduino-dc-motor
-Control a DC Motor with an Arduino
+## Control a DC Motor with an Arduino
 
-Circuit Diagram:
+### Hardware required
+- 1 x L298 bridge IC
+- 1 x DC motor
+- 1 x Arduino uno r3
+- jumper wires (a bunch of them)
+- Power source (eveready battery LOL)
+
+### Picture of a working model:
 
 ![alt text](https://github.com/pingslayer/arduino-dc-motor/blob/branch-1/single-motor-L298-module-arduino.jpg)
 
