@@ -18,7 +18,7 @@
 
 ### Picture of a working model (with L298n)
 
-![ScreenShot](single-motor-L298-module-arduino.jpg)
+![ScreenShot](arduino-l298n.jpg)
 
 ### Sources
 
