@@ -2,15 +2,23 @@
 ## Control a DC Motor with an Arduino
 
 ### Hardware required
-- 1 x L298 bridge IC
+- 1 x L298n module (or L293d H-bridge Motor Driver)
 - 1 x DC motor
 - 1 x Arduino uno r3
 - jumper wires (a bunch of them)
 - Power source (eveready battery LOL)
 
-### Picture of a working model
+### Circuit (with L293d)
 
-![ScreenShot](single-motor-L298-module-arduino.jpg)
+![ScreenShot](Circuit.jpg)
+
+### Schematics (with L293d)
+
+![ScreenShot](Schematics.png)
+
+### Picture of a working model (with L298n)
+
+![ScreenShot](arduino-l298n.jpg)
 
 ### Sources
 
